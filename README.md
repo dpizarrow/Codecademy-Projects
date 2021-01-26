@@ -1,4 +1,8 @@
 # Codecademy-Projects
 
 
-This is a repo I created to save Python projects made using Codecademy. 
+This is a repo I created to save projects made using Codecademy. 
+
+## Current languages:
+  - Python
+  - Jupyter notebook
