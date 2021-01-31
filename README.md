@@ -3,6 +3,6 @@
 
 This is a repo I created to save projects made using Codecademy. 
 
-## Current languages:
-  - Python
-  - Jupyter notebook
+## Completed Courses:
+  - Visualize data with Python
+
