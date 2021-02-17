@@ -1,7 +1,7 @@
 # Codecademy-Projects
 
 
-Repo created to save projects made using Codecademy. 
+Repo created to save personal projects made using Codecademy and other platforms. 
 
 ## Completed Courses:
   - Visualize data with Python
