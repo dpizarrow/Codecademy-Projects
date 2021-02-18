@@ -7,7 +7,8 @@ Repo created to save personal projects made using Codecademy and other platforms
   - Visualize Data with Python
   - Analyze Data with Python
 ## Completed Courses
-  - Learn sorting algorithms with Python
-  - Learn recursion with Python
-  - Learn complex data structures
-  - Learn linear data structures
+  - Learn Sorting Algorithms with Python
+  - Learn Recursion with Python
+  - Learn Complex Data Structures
+  - Linear Data Structures
+  - How to Implement Search Algorithms with Python
