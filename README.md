@@ -3,6 +3,9 @@
 
 Repo created to save personal projects made using Codecademy and other platforms. 
 
+## Completed Career Paths:
+  - Computer Science
+
 ## Completed Skill Paths:
   - Visualize Data with Python
   - Analyze Data with Python
