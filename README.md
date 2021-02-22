@@ -1,4 +1,4 @@
-# Codecademy-Projects
+# Personal-Projects
 
 
 Repo created to save personal projects made using Codecademy and other platforms. 
